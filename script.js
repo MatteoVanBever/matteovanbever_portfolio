@@ -1,0 +1,1 @@
+const header=document.querySelector('.site-header');window.addEventListener('scroll',()=>{header.style.boxShadow=window.scrollY>8?'0 4px 18px rgba(0,0,0,0.15)':'none'});
