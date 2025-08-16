@@ -1,1 +1,0 @@
-Zet hier je afbeeldingen: logo.png, avatar.png, mini-avatar.png, coffee.png, fries.png, wine.png, music.png, project1.png, project2.png, project3.png
